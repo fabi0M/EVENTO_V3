@@ -125,6 +125,37 @@
 				  	"Free [PMC] appears",
 					"Gain [-500] [Gold] <hidden from users>" ] }]
   },
+
+	{
+		"name": "Struck Oil!",
+		"text": "Glorious news! Our workers have found a rich source of oil on a nearby plot of land! The oil is sitting there, just waiting for us to drill it out.",
+		"choices": [
+			{ "text": "Pay them well, and bring them into our service!",
+			  "uniques": [ "Provides [1] [Oil]"] }]
+  },
+
+	{
+		"name": "A Beast Stalks the City",
+		"text": "Rumors have begun to filter into the Palace that a monstrous beast stalks the city streets at the dead of night. Eye-witnesses claim that the beast is a demon, others claim it is the elusive wild haggis. Regardless, it is beginning to disquiet the city, and so the matter must be dealt with.",
+		"choices": [
+			{ "text": "I do not address mere rumors." } ,
+      
+     			{ "text": "Send out some guards and bring back the pelt of this beast.",
+			  "uniques": [ "[+2 Happiness] [in all cities] <for [5] turns>",
+                      			"Comment [Lose 25 Gold]",
+					"Gain [-25] [Gold] <hidden from users>" ]},
+
+			{ "text": "Capture it, put it in a zoo, and charge extra to have it seen.",
+			  "uniques": [ "[+3 Culture] [in all cities] <for [5] turns>",
+                      			"Comment [Lose 50 Gold]",
+					"Gain [-50] [Gold] <hidden from users>" ]},
+      
+     			{ "text": " I shall hunt this beast myself!",
+			  "uniques": ["[+3 Happiness] [in all cities] <for [10] turns>",
+				      "Comment [Lose 100 Gold]",
+				      "Gain [-100] [Gold] <hidden from users>""] }]
+  },
+
 	
 
   
