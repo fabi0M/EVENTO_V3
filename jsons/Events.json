@@ -42,11 +42,52 @@
       
      			{ "text": "Fine, let's tear it down.",
 			  "uniques": ["Comment [Lose Eiffel Tower benefits]",
-                  		      "[-1 Happiness] per [2] social policies adopted <hidden from users>"",
-                                      "[-1 Happiness, -5 Culture] <hidden from users>"",
+                  		      "[-1 Happiness] per [2] social policies adopted <hidden from users>",
+                                      "[-1 Happiness, -5 Culture] <hidden from users>",
                                       "[2] free [Great Artist] units appear",
                                       "[1] free [Great Engineer] units appear"] }]
   },
+
+	 {
+		"name": "A Destitute Noble",
+		"text": "A destitute nobleman has arrived at your court. He is without Lord and pledges his service your name. The nobleman is ragged and unkempt, but adorned with many scars, and has evidently fielded many battles. It is up to you what is to be done with him.",
+		"choices": [
+			{ "text": "Turn him away! We don't need him stinking up the Court!" } ,
+      
+     			{ "text": "Have him cleaned up and suited with armor.",
+			  "uniques": [ "[1] free [Great General] units appear",
+                      			"Comment [Lose 100 Gold]",
+					"Gain [-100] [Gold] <hidden from users>" ]},
+      
+     			{ "text": "Confiscate what little estate he possesses and then have him executed!",
+			  "uniques": ["Gain [60] [Gold]",
+                  		      "Gain [25]-[35] [Culture]"] }]
+  },
+
+	{
+		"name": "The Guest Star",
+		"text": "The year is 1054, a star has appeared in the heavens. It glows with a breathtaking brilliance, captivating the entirety of the nation. The event is surely one of great significance.",
+		"choices": [
+			{ "text": "Such beauty!",
+			  "uniques": [ "[1] free [Great Artist] units appear"]},
+      
+     			{ "text": "A astronomical miracle!",
+			  "uniques": ["[1] free [Great Scientist] units appear"] }]
+  },
+
+	{
+		"name": "Solar Eclipse",
+		"text": "The nation stares in awe as the Sun slowly disappears behind the black disc suspended in the sky, and the world turns to darkness despite it being mid-day. Your subjects are absolutely terrified.",
+		"choices": [
+			{ "text": "Our prayers and sacrifices shall bring back the light.",
+			  "uniques": [ "[+20]% [Culture] [in all cities] <for [8] turns>",
+			  		"[+20]% [Faith] [in all cities <for [8] turns>"]},
+      
+     			{ "text": "There must be a reasonable explanation.",
+			  "uniques": [ "[+20]% [Culture] [in all cities] <for [8] turns>",
+			  	       "[+20]% [Science] [in all cities <for [8] turns>"] }]
+  },
+	
 
   
 
