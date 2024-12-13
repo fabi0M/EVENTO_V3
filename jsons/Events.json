@@ -1,1 +1,77 @@
-f
+[
+  {
+		"name": "Comet Sighted",
+		"text": "People are often superstitious and the appearance of a comet has convinced many that the end of times is soon to come. Whether or not this is actually the case, this is bound to cause some instability within the nation.",
+		"choices": [
+			{ "text": "It is an omen!",
+				"uniques": ["Gain [10]-[25] [Faith]",
+					          "Gain [10]-[20] [Culture]"} ,
+      
+      { "text": "The end is nigh!",
+				"uniques": [ "[-3 Happiness] [in all cities] <for [5] turns>",
+                      "Gain [20]-[40] [Culture]" },
+      
+     { "text": "Keep looking at the sky!",
+			"uniques": ["Comment [Grants a burst of Science]",
+                  "[-1 Happiness] [in all cities] <for [5] turns>",
+					        "Gain [20] [Science] <during the [Ancient era]> <hidden from users>",
+					        "Gain [60] [Science] <during the [Classical era]> <hidden from users>",
+					        "Gain [100] [Science] <during the [Medieval era]> <hidden from users>",] }, ]
+  },
+
+  {
+		    "name": "Comet Spotted",
+		    "text": "A comet was sighted in the sky. Some peolple in the past believed that this portends fell times ahead. Others used to believe that they are in fact pixie fairies floating in the sky. Such primitive ways of thinking, it's almost embarrasing that our ancestors used to believe in such nonsensical rubbish like that.",
+		    "choices": [
+			    {
+				    "text": "Thank God we live in such enlightened times.",
+				    "uniques": ["Gain [175]-[275] [Faith]",
+					              "[+2 Happiness] [in all cities] <for [5] turns>"}, ]
+	
+	},
+
+  {
+		"name": "Artists Protest the Eiffel Tower",
+		"text": "'We, writers, painters, sculptors, architects and passionate devotees of the hitherto untouched beauty of this nation, protest with all our strength, against the erection of this useless and monstrous Eiffel Tower. To bring our arguments home, imagine for a moment a giddy, ridiculous tower dominating this city like a gigantic black smokestack, crushing under its barbaric bulk all of our humiliated monuments which will disappear in this ghastly dream.'",
+		"choices": [
+			{ "text": "Idiots", } ,
+      
+      { "text": "We can't take it down! We're using it as a radio tower!",
+				"uniques": [ "Gain a free [Broadcast Tower] [in this city]",
+                      "Comment [Lose 250 Gold]",
+					            "Gain [-250] [Gold] <hidden from users>", },
+      
+     { "text": "Fine, let's tear it down.",
+			"uniques": ["Comment [Lose Eiffel Tower benefits]",
+                  "[-1 Happiness] per [2] social policies adopted <hidden from users>"",
+                  "[-1 Happiness, -5 Culture] <hidden from users>"",
+                  "[2] free [Great Artist] units appear",
+                  "[1] free [Great Engineer] units appear"] }, ]
+  },
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+]
