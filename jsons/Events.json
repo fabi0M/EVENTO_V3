@@ -160,7 +160,7 @@
 		    "text": "Owing to discovering fertilisers, our farmers accross the nation report an amazing surplus of food. Rarely has the earth ever yielded so much!",
 		    "choices": [
 			    {"text": "Food for all!",
-			     "uniques": ["Gain [+100] [Food] [in all cities] <for [1] turns>"] } ]
+			     "uniques": ["Gain [+100] [Food] [in all cities] <for [2] turns>"] } ]
 	
 	},
 
