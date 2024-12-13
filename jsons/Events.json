@@ -81,11 +81,11 @@
 		"choices": [
 			{ "text": "Our prayers and sacrifices shall bring back the light.",
 			  "uniques": [ "[+20]% [Culture] [in all cities] <for [8] turns>",
-			  		"[+20]% [Faith] [in all cities] <for [8] turns>"},
+			  		"[+20]% [Faith] [in all cities] <for [8] turns>"]},
       
      			{ "text": "There must be a reasonable explanation.",
 			  "uniques": [ "[+20]% [Culture] [in all cities] <for [8] turns>",
-			  	       "[+20]% [Science] [in all cities] <for [8] turns>" }]
+			  	       "[+20]% [Science] [in all cities] <for [8] turns>" ]}]
   },
 
 	{
