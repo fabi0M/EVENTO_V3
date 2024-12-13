@@ -130,7 +130,7 @@
 		"text": "Glorious news! Our workers have found a new, rich source of oil on a nearby our existing oil wells! The oil is sitting there, just waiting for us to drill it out.",
 		"choices": [
 			{ "text": "Wonderful news!",
-			  "uniques": [ "Double quantity of [Oil] produced <for [20] turns>",] }]
+			  "uniques": [ "Double quantity of [Oil] produced <for [20] turns>"] }]
   },
 
 	{
