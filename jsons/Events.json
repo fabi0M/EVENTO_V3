@@ -87,6 +87,44 @@
 			  "uniques": [ "[+20]% [Culture] [in all cities] <for [8] turns>",
 			  	       "[+20]% [Science] [in all cities <for [8] turns>"] }]
   },
+
+	{
+		"name": "Mercenaries",
+		"text": "A band of mercenaries, fresh from some foreign war now settled, has arrived at your Palace, and offer their services to you. These are no mere vagabonds; these are professional soldiers. If not us, then they might turn to our enemies.",
+		"choices": [
+			{ "text": "We shall have no foreigners in our armies!",
+			  "uniques": [ "Rebel units may spawn <for [10] turns>",
+					"Gain [100] [Culture]"]},
+
+			{ "text": "We must turn them away!",
+			  "uniques": [ "Comment [The mercenaries leave.]",]},
+      
+     			{ "text": "Pay them well, and bring them into our service!",
+			  "uniques": [ "Comment [Lose 300 Gold]",
+				  	"Free [Landsknecht] appears",
+				  	"Free [Landsknecht] appears",
+				  	"Free [Landsknecht] appears",
+					"Gain [-300] [Gold] <hidden from users>" ] }]
+  },
+
+	{
+		"name": "PMC's",
+		"text": "An organisation of PMC's, fresh from some foreign war now settled, has sent a message to the military, and offer their services to you. These are no mere insurgents; these are true veterans. If not us, then they might turn to our enemies.",
+		"choices": [
+			{ "text": "We shall have no guns-for-hire in our armies!",
+			  "uniques": [ "Rebel units may spawn <for [10] turns>",
+					"Gain [100] [Culture]"]},
+
+			{ "text": "We must turn them away!",
+			  "uniques": [ "Comment [The PMC's leave.]",]},
+      
+     			{ "text": "Pay them well, and bring them into our service!",
+			  "uniques": [ "Comment [Lose 500 Gold]",
+				  	"Free [PMC] appears",
+				  	"Free [PMC] appears",
+				  	"Free [PMC] appears",
+					"Gain [-500] [Gold] <hidden from users>" ] }]
+  },
 	
 
   
