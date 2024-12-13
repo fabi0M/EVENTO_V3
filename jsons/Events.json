@@ -97,7 +97,7 @@
 					"Gain [100] [Culture]"]},
 
 			{ "text": "We must turn them away!",
-			  "uniques": [ "Comment [The mercenaries leave.]",]},
+			  "uniques": [ "Comment [The mercenaries leave.]"]},
       
      			{ "text": "Pay them well, and bring them into our service!",
 			  "uniques": [ "Comment [Lose 300 Gold]",
@@ -116,7 +116,7 @@
 					"Gain [100] [Culture]"]},
 
 			{ "text": "We must turn them away!",
-			  "uniques": [ "Comment [The PMC's leave.]",]},
+			  "uniques": [ "Comment [The PMC's leave.]"]},
       
      			{ "text": "Pay them well, and bring them into our service!",
 			  "uniques": [ "Comment [Lose 500 Gold]",
