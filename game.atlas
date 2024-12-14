@@ -1,10 +1,19 @@
 game.png
-size: 128, 128
+size: 256, 128
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
+TileSets/AbsoluteUnits/Units/PMC
+  rotate: false
+  xy: 101, 18
+  size: 77, 65
+  orig: 77, 65
+  offset: 0, 0
+  index: -1
 UnitIcons/PMC
   rotate: false
   xy: 4, 4
   size: 89, 79
   orig: 89, 79
+  offset: 0, 0
+  index: -1
