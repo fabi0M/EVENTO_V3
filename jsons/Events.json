@@ -8,7 +8,7 @@
 					"Gain [10]-[20] [Culture]"]}
       
       			{ "text": "The end is nigh!",
-			  "uniques": [	"[-3 Happiness] [in all cities] <for [5] turns>",
+			  "uniques": [	"[-2 Happiness] [in all cities] <for [5] turns>",
                       		       	"Gain [20]-[40] [Culture]" ] }
       
      			{ "text": "Keep looking at the sky!",
@@ -145,12 +145,13 @@
 					"Gain [-25] [Gold] <hidden from users>" ]},
 
 			{ "text": "Capture it, put it in a zoo, and charge extra to have it seen.",
-			  "uniques": [ "[+3 Culture] [in all cities] <for [5] turns>",
+			  "uniques": [ "[+2 Culture] [in all cities] <for [10] turns>",
                       			"Comment [Lose 50 Gold]",
 					"Gain [-50] [Gold] <hidden from users>" ]},
       
      			{ "text": " I shall hunt this beast myself!",
 			  "uniques": ["[+3 Happiness] [in all cities] <for [10] turns>",
+				      "[+3 Culture] [in all cities] <for [5] turns>",
 				      "Comment [Lose 100 Gold]",
 				      "Gain [-100] [Gold] <hidden from users>"] }]
   },
@@ -160,7 +161,7 @@
 		    "text": "Owing to discovering fertilisers, our farmers accross the nation report an amazing surplus of food. Rarely has the earth ever yielded so much!",
 		    "choices": [
 			    {"text": "Food for all!",
-			     "uniques": ["[+99 Food] [in all cities] <for [1] turns>"] } ]
+			     "uniques": ["[+999 Food] [in all cities] <for [1] turns>"] } ]
 	
 	},
 
@@ -220,8 +221,8 @@
 			    
 			    {"text": "Fund an underground subway",
 			     "uniques": ["Comment [Lose 650 Gold]",
-				     	 "[+10 Production] [in all cities] <for [20] turns>",
-				     	 "[+3 Culture] [in all cities] <for [5] turns>",
+				     	 "[+20 Production] [in all cities] <for [20] turns>",
+				     	 "[+10 Culture] [in all cities] <for [10] turns>",
 				     	 "Gain [-650] [Gold] <hidden from users>",
 			     		"Gain a free [Underground Subway] [in capital]"] } ]
 	
