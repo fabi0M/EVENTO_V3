@@ -164,5 +164,21 @@
 	
 	},
 
+	{
+		"name": "Social Reforms",
+		"text": "Your advisors have proposed a number of policies that would likely profit our nation greatly if taken into effect. They are extremely radical however and it is possible that many will not take well to the changes.",
+		"choices": [
+			{ "text": "No! These drastic reforms will harm the nation, not help it!" } ,
+      
+     			{ "text": "These reforms shall be of great use, implement them at once!.",
+			  "uniques": [ "Free Social Policy",
+				       "[-3 Happiness] [in all cities] <for [10] turns>",
+					"Gain [-25] [Gold] <hidden from users>" ]},
+			
+     			{ "text": " Whoever thinks this is a good idea are traitors to the state! Have them executed!",
+			  "uniques": ["[-3 Culture] [in all cities] <for [5] turns>",
+				      "[+2 Happiness] [in all cities] <for [10] turns>"] }]
+  },
+
 	
 ]
