@@ -3,8 +3,10 @@
 		"name": "PMC",
 		"unitType": "Gunpowder",
 		"movement": 2,
+		"cost": 100,
 		"strength": 80,
 		"promotions": ["Logistics"],
+		"uniques": ["Unbuildable","Cannot be purchased"]
 		"attackSound": "gun"
 	}
 ]
