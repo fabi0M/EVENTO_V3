@@ -172,8 +172,7 @@
       
      			{ "text": "These reforms shall be of great use, implement them at once!.",
 			  "uniques": [ "Free Social Policy",
-				       "[-3 Happiness] [in all cities] <for [10] turns>",
-					"Gain [-25] [Gold] <hidden from users>" ]},
+				       "[-3 Happiness] [in all cities] <for [10] turns>" ]},
 			
      			{ "text": " Whoever thinks this is a good idea are traitors to the state! Have them executed!",
 			  "uniques": ["[-3 Culture] [in all cities] <for [5] turns>",
@@ -186,6 +185,45 @@
 		    "choices": [
 			    {"text": "Very well.",
 			     "uniques": ["Gain a free [Code of Laws] [in capital]"] } ]
+	
+	},
+
+	{
+		    "name": "Nationalize the Utilities",
+		    "text": "Should we nationalize those industries which are essential for our people's welfare? The industries' owners won't like it, but the nation will be better off for it in the long run.",
+		    "choices": [
+
+			    { "text": "No! These industries shall stay private!",
+			  "uniques": [ "Gain [300] [Gold]" ,
+				       "[+15 Gold] [in all cities] <for [15] turns>",
+				       "[-3 Happiness] [in all cities] <for [10] turns>"]},
+			    
+			    {"text": "For the People!",
+			     "uniques": ["Comment [Lose 300 Gold]",
+				     	 "[+10 Production] [in all cities] <for [15] turns>",
+				     	 "Gain [-300] [Gold] <hidden from users>",
+			     		 "Gain a free [Factory] [in capital]"] } ]
+	
+	},
+
+	{
+		    "name": "Subsidize",
+		    "text": "Problems with traffic congestion hinder productivity in our nation. If we were to promote public transport, we should be able to ensure that both people and resources can get to where they need to be on time.",
+		    "choices": [
+
+			    { "text": "Expand bus and tram routes",
+			  "uniques": [ "Comment [Lose 300 Gold]",
+				  "Gain [-300] [Gold]" ,
+				       "[+15 Gold] [in all cities] <for [20] turns>",
+				       "[+4 Happiness] [in all cities] <for [30] turns>",
+			  		"Gain a free [ Bus Routes] [in capital]"]},
+			    
+			    {"text": "Fund an underground subway",
+			     "uniques": ["Comment [Lose 650 Gold]",
+				     	 "[+10 Production] [in all cities] <for [20] turns>",
+				     	 "[+3 Culture] [in all cities] <for [5] turns>",
+				     	 "Gain [-650] [Gold] <hidden from users>",
+			     		"Gain a free [Underground Subway] [in capital]"] } ]
 	
 	},
 
