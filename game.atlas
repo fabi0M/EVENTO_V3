@@ -1,18 +1,39 @@
 game.png
-size: 256, 128
+size: 512, 128
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
+BuildingIcons/Bus Routes
+  rotate: false
+  xy: 4, 5
+  size: 89, 78
+  orig: 89, 78
+  offset: 0, 0
+  index: -1
+BuildingIcons/Code of Laws
+  rotate: false
+  xy: 101, 4
+  size: 89, 79
+  orig: 89, 79
+  offset: 0, 0
+  index: -1
+BuildingIcons/Underground Subway
+  rotate: false
+  xy: 295, 5
+  size: 89, 78
+  orig: 89, 78
+  offset: 0, 0
+  index: -1
 TileSets/AbsoluteUnits/Units/PMC
   rotate: false
-  xy: 101, 18
+  xy: 392, 18
   size: 77, 65
   orig: 77, 65
   offset: 0, 0
   index: -1
 UnitIcons/PMC
   rotate: false
-  xy: 4, 4
+  xy: 198, 4
   size: 89, 79
   orig: 89, 79
   offset: 0, 0
