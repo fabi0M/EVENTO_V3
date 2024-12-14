@@ -15,7 +15,7 @@
 		"Triggers a [A Beast Stalks the City] event <for [Major]> <upon turn end> <with [3]% chance> <before the [Industrial era]>",
 		"Triggers a [Social Reforms] event <for [Major]> <upon turn end> <with [3]% chance> <starting from the [Classical era]>",
 		"Triggers a [Codify Laws] event <for [Major]> <upon turn end> <after discovering [Philosophy]>",
-		"Triggers a [Nationalize the Utilites] event <for [Major]> <upon turn end> <after discovering [Industrialization]>",
+		"Triggers a [Nationalize the Utilities] event <for [Major]> <upon turn end> <after discovering [Industrialization]>",
 		"Triggers a [Subsidize] event <for [Major]> <upon turn end> <after discovering [Steam Power]>",
 	]
 }
