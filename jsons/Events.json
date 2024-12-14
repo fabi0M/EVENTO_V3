@@ -216,7 +216,7 @@
 				  "Gain [-300] [Gold]" ,
 				       "[+15 Gold] [in all cities] <for [20] turns>",
 				       "[+4 Happiness] [in all cities] <for [30] turns>",
-			  		"Gain a free [ Bus Routes] [in capital]"]},
+			  		"Gain a free [Bus Routes] [in capital]"]},
 			    
 			    {"text": "Fund an underground subway",
 			     "uniques": ["Comment [Lose 650 Gold]",
