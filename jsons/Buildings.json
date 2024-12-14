@@ -1,16 +1,12 @@
 [
 	{
-		"name": "Holodeck",
-		"replaces": "Circus Maximus",
-		"uniqueTo": "Aliens",
-		"cost": 480,
-		"happiness": 12,
-		"culture": 12,
-		"science": 12,
-		"maintenance": 96,
+		"name": "Code of Laws",
+		"cost": 80,
+		"maintenance": 2,
+		"happiness": 2,
+		"culture": 2,
+		"uniques": ["[+25]% Golden Age length"],
 		"isNationalWonder": true,
-		"requiredBuildingInAllCities": "Colosseum",
-		"requiredTech": "Horseback Riding"
 	},
 	{
 		"name": "Breeders",
