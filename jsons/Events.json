@@ -180,5 +180,14 @@
 				      "[+2 Happiness] [in all cities] <for [10] turns>"] }]
   },
 
+	 {
+		    "name": "Codify Laws",
+		    "text": "Over the years various laws and decrees have been accumulated. In the interests of efficient administration it would be better to codify them into a single corpus of law so everyone will know their rights.",
+		    "choices": [
+			    {"text": "Very well.",
+			     "uniques": ["Gain a free [Code of Laws] [in capital]"] } ]
+	
+	},
+
 	
 ]
