@@ -1,22 +1,21 @@
 {
 	"name": "Global uniques",
 	"uniques": [
-		"Triggers a [Miracle Harvest!] event <upon discovering [Fertilizer] technology>",
-		"Triggers a [Nationalize the Utilities] event <upon discovering [Industrialization] technology>",
-		"Triggers a [Subsidize] event <upon discovering [Steam Power] technology>",
-		"Triggers a [Codify Laws] event <upon discovering [Philosophy] technology>",
+		"Triggers a [¡Cosecha Milagrosa!] event <upon discovering [Fertilizer] technology>",
+		"Triggers a [Nacionalizar los Servicios Públicos] event <upon discovering [Industrialization] technology>",
+		"Triggers a [Subsidio] event <upon discovering [Steam Power] technology>",
+		"Triggers a [Codificar Leyes] event <upon discovering [Philosophy] technology>",
 		
-		"Triggers a [Comet Sighted] event <for [Major] Civilizations> <upon turn end> <with [2]% chance> <after turn number [5]> <before the [Decivilized era]>",
-		"Triggers a [Comet Spotted] event <for [Major] Civilizations> <upon turn end> <with [2]% chance> <starting from the [Decivilized era]>",
-		"Triggers a [Artists Protest the Eiffel Tower] event <for [Major] Civilizations> <if [Eiffel Tower] is constructed>",
-		"Triggers a [A Destitute Noble] event <upon turn end> <with [2]% chance> <after turn number [20]> <before the [Industrial era]>",
-		"Triggers a [The Guest Star] event <for [Major] Civilizations> <upon turn end>  <after turn number [164]> <before turn number [166]>",
-		"Triggers a [Solar Eclipse] event <for [Major] Civilizations> <upon turn end> <with [2]% chance> <after turn number [5]> <before the [Rebuilding era]>",
-		"Triggers a [Mercenaries] event <for [Major] Civilizations> <upon turn end> <with [2]% chance> <starting from the [Neofeudal era]> <before the [Industrial era]>",
+		"Triggers a [Cometa Avistado] event <for [Major] Civilizations> <upon turn end> <with [2]% chance> <after turn number [5]> <before the [Decivilized era]>",
+		"Triggers a [Cometa Avistado] event <for [Major] Civilizations> <upon turn end> <with [2]% chance> <starting from the [Decivilized era]>",
+		"Triggers a [Protesta de Artistas por la Torre Eiffel] event <for [Major] Civilizations> <if [Eiffel Tower] is constructed>",
+		"Triggers a [Un Noble Empobrecido] event <upon turn end> <with [2]% chance> <after turn number [20]> <before the [Industrial era]>",
+		"Triggers a [La Estrella Invitada] event <for [Major] Civilizations> <upon turn end>  <after turn number [164]> <before turn number [166]>",
+		"Triggers a [Eclipse Solar] event <for [Major] Civilizations> <upon turn end> <with [2]% chance> <after turn number [5]> <before the [Rebuilding era]>",
+		"Triggers a [Mercenarios] event <for [Major] Civilizations> <upon turn end> <with [2]% chance> <starting from the [Neofeudal era]> <before the [Industrial era]>",
 		"Triggers a [PMC's] event <for [Major] Civilizations> <upon turn end> <with [2]% chance> <starting from the [Postmodern era]>",
-		"Triggers a [Struck Oil!] event <for [Major] Civilizations> <upon turn end> <with [2]% chance> <after discovering [Biology]>",
-		"Triggers a [A Beast Stalks the City] event <for [Major] Civilizations> <upon turn end> <with [2]% chance> <before the [Industrial era]>",
-		"Triggers a [Social Reforms] event <for [Major] Civilizations> <upon turn end> <with [2]% chance> <starting from the [Rediscovering era]>",
-
+		"Triggers a [¡Petróleo Descubierto!] event <for [Major] Civilizations> <upon turn end> <with [2]% chance> <after discovering [Biology]>",
+		"Triggers a [Una Bestia Acecha la Ciudad] event <for [Major] Civilizations> <upon turn end> <with [2]% chance> <before the [Industrial era]>",
+		"Triggers a [Reformas Sociales] event <for [Major] Civilizations> <upon turn end> <with [2]% chance> <starting from the [Rediscovering era]>",
 	]
 }
