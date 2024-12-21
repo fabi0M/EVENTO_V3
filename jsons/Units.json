@@ -1,7 +1,7 @@
 [
 	{
 		"name": "PMC",
-		"unitType": "Gunpowder",
+		"unitType": "Armor",
 		"movement": 2,
 		"cost": 100,
 		"strength": 80,
