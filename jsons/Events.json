@@ -88,7 +88,7 @@
     ]
   },
   {
-    "name": "¡Cosecha milagrosa!",
+    "name": "¡Cosecha Milagrosa!",
     "text": "Gracias al descubrimiento de fertilizantes, nuestros agricultores en todo el país informan de un increíble excedente de alimentos. ¡Rara vez la tierra ha producido tanto!",
     "choices": [
       { "text": "¡Comida para todos!", "uniques": ["[+999 Food] [in all cities] <for [1] turns>"] }
@@ -110,14 +110,14 @@
     ]
   },
   {
-    "name": "Codificar leyes",
+    "name": "Codificar Leyes",
     "text": "A lo largo de los años se han acumulado diversas leyes y decretos. En interés de una administración eficiente, sería mejor codificarlas en un solo corpus legal para que todos conozcan sus derechos.",
     "choices": [
       { "text": "De acuerdo.", "uniques": ["Gain a free [Code of Laws] [in capital]"] }
     ]
   },
   {
-    "name": "Nacionalizar los servicios públicos",
+    "name": "Nacionalizar los Servicios Públicos",
     "text": "¿Deberíamos nacionalizar las industrias que son esenciales para el bienestar de nuestra gente? A los dueños de estas industrias no les gustará, pero a largo plazo será mejor para la nación.",
     "choices": [
       {
@@ -136,7 +136,7 @@
     ]
   },
   {
-    "name": "Subsidios",
+    "name": "Subsidio",
     "text": "Los problemas con la congestión del tráfico dificultan la productividad en nuestra nación. Si promovemos el transporte público, deberíamos garantizar que tanto las personas como los recursos lleguen a donde deben estar a tiempo.",
     "choices": [
       {
