@@ -43,7 +43,7 @@
      			{ "text": "Fine, let's tear it down.",
 			  "uniques": ["Comment [Lose Eiffel Tower benefits]",
                   		      "Remove [Eiffel Tower] [in all cities <in cities with a [Eiffel Tower]>] <hidden from users>",
-                                      "[2] free [Great Artist] units appear",
+                                      "[2] free [Great Administrator] units appear",
                                       "[1] free [Great Engineer] units appear"] }]
   },
 
@@ -68,7 +68,7 @@
 		"text": "The year is 1054, a star has appeared in the heavens. It glows with a breathtaking brilliance, captivating the entirety of the nation. The event is surely one of great significance.",
 		"choices": [
 			{ "text": "Such beauty!",
-			  "uniques": [ "[1] free [Great Artist] units appear"]},
+			  "uniques": [ "[1] free [Great Administrator] units appear"]},
       
      			{ "text": "A astronomical miracle!",
 			  "uniques": ["[1] free [Great Scientist] units appear"] }]
