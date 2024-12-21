@@ -6,9 +6,9 @@
 		"Triggers a [Subsidio] event <upon discovering [Steam Power] technology>",
 		"Triggers a [Codificar Leyes] event <upon discovering [Philosophy] technology>",
 		
-		"Triggers a [Cometa Avistado] event <for [Major] Civilizations> <upon turn end> <with [2]% chance> <after turn number [5]> <before the [Decivilized era]>",
-		"Triggers a [Cometa Avistado] event <for [Major] Civilizations> <upon turn end> <with [2]% chance> <starting from the [Decivilized era]>",
-		"Triggers a [Protesta de Artistas por la Torre Eiffel] event <for [Major] Civilizations> <if [Eiffel Tower] is constructed>",
+		"Triggers a [Cometa avistado] event <for [Major] Civilizations> <upon turn end> <with [2]% chance> <after turn number [5]> <before the [Decivilized era]>",
+		"Triggers a [Cometa avistado] event <for [Major] Civilizations> <upon turn end> <with [2]% chance> <starting from the [Decivilized era]>",
+		"Triggers a [Protesta de artistas por la Torre Eiffel] event <for [Major] Civilizations> <if [Eiffel Tower] is constructed>",
 		"Triggers a [Un Noble Empobrecido] event <upon turn end> <with [2]% chance> <after turn number [20]> <before the [Industrial era]>",
 		"Triggers a [La Estrella Invitada] event <for [Major] Civilizations> <upon turn end>  <after turn number [164]> <before turn number [166]>",
 		"Triggers a [Eclipse Solar] event <for [Major] Civilizations> <upon turn end> <with [2]% chance> <after turn number [5]> <before the [Rebuilding era]>",
