@@ -1,84 +1,5 @@
 [
   {
-    "name": "Cometa avistado",
-    "text": "La gente suele ser supersticiosa y la aparición de un cometa ha convencido a muchos de que el fin de los tiempos está cerca. Sea o no este el caso, esto seguramente causará cierta inestabilidad dentro de la nación.",
-    "choices": [
-      {
-        "text": "¡Es un presagio!",
-        "uniques": ["Gain [10]-[25] [Faith]", "Gain [10]-[20] [Culture]"]
-      },
-      {
-        "text": "¡El fin está cerca!",
-        "uniques": ["[-2 Happiness] [in all cities] <for [5] turns>", "Gain [20]-[40] [Culture]"]
-      },
-      {
-        "text": "¡Sigue mirando al cielo!",
-        "uniques": [
-          "Comment [Grants a burst of Science]",
-          "[-1 Happiness] [in all cities] <for [5] turns>",
-          "Gain [20] [Science] <during the [Decivilized era]> <hidden from users>",
-          "Gain [60] [Science] <during the [Rediscovering era]> <hidden from users>",
-          "Gain [100] [Science] <during the [Neofeudal era]> <hidden from users>"
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Cometa observado",
-    "text": "Un cometa fue visto en el cielo. Algunas personas en el pasado creían que esto auguraba tiempos difíciles. Otros solían pensar que eran hadas flotando en el cielo. Maneras tan primitivas de pensar; es casi embarazoso que nuestros ancestros creyeran en tales tonterías.",
-    "choices": [
-      {
-        "text": "Gracias a Dios vivimos en tiempos tan iluminados.",
-        "uniques": ["Gain [175]-[275] [Faith]", "[+2 Happiness] [in all cities] <for [5] turns>"]
-      }
-    ]
-  },
-  {
-    "name": "Artistas protestan contra la Torre Eiffel",
-    "text": "'Nosotros, escritores, pintores, escultores, arquitectos y apasionados devotos de la hasta ahora intacta belleza de esta nación, protestamos con todas nuestras fuerzas contra la erección de esta inútil y monstruosa Torre Eiffel. Para dar peso a nuestros argumentos, imaginen por un momento una ridícula torre dominando esta ciudad como una gigantesca chimenea negra, aplastando bajo su bárbara masa todos nuestros monumentos humillados que desaparecerán en este horrible sueño.'",
-    "choices": [
-      { "text": "Idiotas" },
-      {
-        "text": "¡No podemos derribarla! ¡La estamos usando como torre de radio!",
-        "uniques": [
-          "Gain a free [Broadcast Tower] [in this city]",
-          "Comment [Lose 250 Gold]",
-          "Gain [-250] [Gold] <hidden from users>"
-        ]
-      },
-      {
-        "text": "Bien, derribémosla.",
-        "uniques": [
-          "Comment [Lose Eiffel Tower benefits]",
-          "Remove [Eiffel Tower] [in all cities <in cities with a [Eiffel Tower]>] <hidden from users>",
-          "[2] free [Great Administrator] units appear",
-          "[1] free [Great Engineer] units appear"
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Un noble indigente",
-    "text": "Un noble indigente ha llegado a tu corte. Está sin señor y promete su servicio en tu nombre. El noble está desaliñado y descuidado, pero adornado con muchas cicatrices, habiendo evidentemente participado en muchas batallas. Depende de ti decidir qué hacer con él.",
-    "choices": [
-      { "text": "¡Recházalo! ¡No lo necesitamos apestando la corte!" },
-      {
-        "text": "Haz que lo limpien y lo equipen con armadura.",
-        "uniques": [
-          "[1] free [Great General] units appear",
-          "Comment [Lose 100 Gold]",
-          "Gain [-100] [Gold] <hidden from users>"
-        ]
-      },
-      {
-        "text": "¡Confisca sus pocas propiedades y luego ejecútalo!",
-        "uniques": ["Gain [60] [Gold]", "Gain [25]-[35] [Culture]"]
-      }
-    ]
-  }
-]
-[
-  {
     "name": "La estrella invitada",
     "text": "El año es 1054, una estrella ha aparecido en los cielos. Brilla con un resplandor impresionante, cautivando a toda la nación. Este evento seguramente tiene una gran importancia.",
     "choices": [
@@ -240,4 +161,4 @@
       }
     ]
   }
-]
+    ]
