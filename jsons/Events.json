@@ -1,6 +1,6 @@
 [
   {
-    "name": "La estrella invitada",
+    "name": "La Estrella Invitada",
     "text": "El año es 1054, una estrella ha aparecido en los cielos. Brilla con un resplandor impresionante, cautivando a toda la nación. Este evento seguramente tiene una gran importancia.",
     "choices": [
       { "text": "¡Qué belleza!", "uniques": ["[1] free [Great Administrator] units appear"] },
@@ -8,7 +8,7 @@
     ]
   },
   {
-    "name": "Eclipse solar",
+    "name": "Eclipse Solar",
     "text": "La nación mira asombrada mientras el Sol desaparece lentamente detrás de un disco negro suspendido en el cielo, y el mundo queda en oscuridad a pesar de ser pleno día. Tus súbditos están absolutamente aterrorizados.",
     "choices": [
       {
@@ -56,7 +56,7 @@
     ]
   },
   {
-    "name": "Una bestia acecha la ciudad",
+    "name": "Una Bestia Acecha la Ciudad",
     "text": "Han comenzado a llegar rumores al Palacio de que una bestia monstruosa merodea por las calles de la ciudad en plena noche. Los testigos afirman que la bestia es un demonio, otros dicen que es el esquivo 'wild haggis'. De cualquier manera, está inquietando a la ciudad, y el asunto debe resolverse.",
     "choices": [
       { "text": "No me ocupo de simples rumores." },
@@ -95,7 +95,7 @@
     ]
   },
   {
-    "name": "Reformas sociales",
+    "name": "Reformas Sociales",
     "text": "Tus asesores han propuesto una serie de políticas que probablemente beneficiarán mucho a nuestra nación si se implementan. Sin embargo, son extremadamente radicales y es posible que muchos no las acepten.",
     "choices": [
       { "text": "¡No! Estas reformas drásticas perjudicarán a la nación, no la ayudarán." },
