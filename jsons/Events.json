@@ -14,9 +14,9 @@
      			{ "text": "Keep looking at the sky!",
 			  "uniques": [ 	"Comment [Grants a burst of Science]",
                                        	"[-1 Happiness] [in all cities] <for [5] turns>",
-					"Gain [20] [Science] <during the [Ancient era]> <hidden from users>",
-					"Gain [60] [Science] <during the [Classical era]> <hidden from users>",
-			 		"Gain [100] [Science] <during the [Medieval era]> <hidden from users>"] } ]
+					"Gain [20] [Science] <during the [Decivilized era]> <hidden from users>",
+					"Gain [60] [Science] <during the [Rediscovering era]> <hidden from users>",
+			 		"Gain [100] [Science] <during the [Neofeudal era]> <hidden from users>"] } ]
   },
 
   {
