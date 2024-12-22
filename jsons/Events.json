@@ -14,9 +14,9 @@
      			{ "text": "Sigue mirando al cielo!",
 			  "uniques": [ 	"Comment [Otorga una rafaga de ciencia]",
                                        	"[-1 Happiness] [in all cities] <for [5] turns>",
-					"Gain [20] [Science] <during the [Ancient era]> <hidden from users>",
-					"Gain [60] [Science] <during the [Classical era]> <hidden from users>",
-			 		"Gain [100] [Science] <during the [Medieval era]> <hidden from users>"] } ]
+					"Gain [20] [Science] <during the [Decivilized era]> <hidden from users>",
+					"Gain [60] [Science] <during the [Rediscovering era]> <hidden from users>",
+			 		"Gain [100] [Science] <during the [Neofeudal era]> <hidden from users>"] } ]
   },
 
   {
@@ -43,7 +43,7 @@
      			{ "text": "Está bien, vamos a derribarlo.",
 			  "uniques": ["Comment [Lose Eiffel Tower benefits]",
                   		      "Remove [Eiffel Tower] [in all cities <in cities with a [Eiffel Tower]>] <hidden from users>",
-                                      "[2] free [Great Artist] units appear",
+                                      "[2] free [Great Administrator] units appear",
                                       "[1] free [Great Engineer] units appear"] }]
   },
 
@@ -68,7 +68,7 @@
 		"text": "Corre el año 1054 y una estrella ha aparecido en el cielo. Brilla con un brillo impresionante y cautiva a toda la nación. El acontecimiento es sin duda de gran importancia.",
 		"choices": [
 			{ "text": " QUE BELLEZA",
-			  "uniques": [ "[1] free [Great Artist] units appear"]},
+			  "uniques": [ "[1] free [Great Administrator] units appear"]},
       
      			{ "text": "UN MILAGRO ASTRONOMICO!",
 			  "uniques": ["[1] free [Great Scientist] units appear"] }]
@@ -100,9 +100,9 @@
       
      			{ "text": "¡Pagadles bien y ponedlos a nuestro servicio!",
 			  "uniques": [ "Comment [Lose 300 Gold]",
-				  	"Free [Landsknecht] appears",
-				  	"Free [Landsknecht] appears",
-				  	"Free [Landsknecht] appears",
+				  	"Free [Machete] appears",
+				  	"Free [Machete] appears",
+				  	"Free [Machete] appears",
 					"Gain [-300] [Gold] <hidden from users>" ] }]
   },
 
