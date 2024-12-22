@@ -1,7 +1,7 @@
 {
 	"name": "Global uniques",
 	"uniques": [
-		"Triggers a [¡Cosecha milagrosa!] event <upon discovering [Fertilizer] technology>",
+		"Triggers a [Cosecha milagrosa!] event <upon discovering [Fertilizer] technology>",
 		"Triggers a [Nacionalizar los Servicios Públicos] event <upon discovering [Industrialization] technology>",
 		"Triggers a [Subsidio] event <upon discovering [Steam Power] technology>",
 		"Triggers a [Codificar Leyes] event <upon discovering [Philosophy] technology>",
@@ -14,7 +14,7 @@
 		"Triggers a [Eclipse Solar] event <for [Major] Civilizations> <upon turn end> <with [2]% chance> <after turn number [5]> <before the [Rebuilding era]>",
 		"Triggers a [Mercenarios] event <for [Major] Civilizations> <upon turn end> <with [2]% chance> <starting from the [Neofeudal era]> <before the [Industrial era]>",
 		"Triggers a [PMC's] event <for [Major] Civilizations> <upon turn end> <with [2]% chance> <starting from the [Postmodern era]>",
-		"Triggers a [¡Petroleo encontrado!] event <for [Major] Civilizations> <upon turn end> <with [2]% chance> <after discovering [Biology]>",
+		"Triggers a [Petroleo encontrado!] event <for [Major] Civilizations> <upon turn end> <with [2]% chance> <after discovering [Biology]>",
 		"Triggers a [Una bestia acecha la ciudad] event <for [Major] Civilizations> <upon turn end> <with [2]% chance> <before the [Industrial era]>",
 		"Triggers a [Reformas Sociales] event <for [Major] Civilizations> <upon turn end> <with [2]% chance> <starting from the [Rediscovering era]>",
 	]
