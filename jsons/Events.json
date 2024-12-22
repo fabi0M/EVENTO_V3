@@ -98,7 +98,7 @@
 			{ "text": "Tenemos que rechazarlos!",
 			  "uniques": [ "Comment [The mercenaries leave.]"]},
       
-     			{ "text": "Pay them well, and bring them into our service!",
+     			{ "text": "¡Pagadles bien y ponedlos a nuestro servicio!",
 			  "uniques": [ "Comment [Lose 300 Gold]",
 				  	"Free [Landsknecht] appears",
 				  	"Free [Landsknecht] appears",
@@ -108,16 +108,16 @@
 
 	{
 		"name": "PMC's",
-		"text": "An organisation of PMC's, fresh from some foreign war now settled, has sent a message to the military, and offer their services to you. These are no mere insurgents; these are true veterans. If not us, then they might turn to our enemies.",
+		"text": "Una organización de PMC, recién salida de una guerra extranjera ya resuelta, ha enviado un mensaje a los militares y les ofrece sus servicios. No son simples insurgentes; son verdaderos veteranos. Si no son nosotros, entonces podrían recurrir a nuestros enemigos.",
 		"choices": [
-			{ "text": "We shall have no guns-for-hire in our armies!",
+			{ "text": "No tendremos pistoleros a sueldo en nuestros ejércitos!",
 			  "uniques": [ "Rebel units may spawn <for [10] turns>",
 					"Gain [100] [Culture]"]},
 
-			{ "text": "We must turn them away!",
+			{ "text": "Tenemos que rechazarlos!",
 			  "uniques": [ "Comment [The PMC's leave.]"]},
       
-     			{ "text": "Pay them well, and bring them into our service!",
+     			{ "text": "Pagadles bien y ponedlos a nuestro servicio!",
 			  "uniques": [ "Comment [Lose 500 Gold]",
 				  	"Free [PMC] appears",
 				  	"Free [PMC] appears",
@@ -126,30 +126,31 @@
   },
 
 	{
-		"name": "Struck Oil!",
-		"text": "Glorious news! Our workers have found a new, rich source of oil on a nearby our existing oil wells! The oil is sitting there, just waiting for us to drill it out.",
+		"name": "Petroleo encontrado!",
+		"text": "Petróleo encontrado!",
+		"text": "¡Buenas noticias! Nuestros trabajadores han descubierto una nueva y rica fuente de petróleo en uno de nuestros pozos petrolíferos existentes. El petróleo está ahí, esperando a que lo extraigamos.",
 		"choices": [
-			{ "text": "Wonderful news!",
+			{ "text": "Maravillosas noticias!",
 			  "uniques": [ "Double quantity of [Oil] produced <for [20] turns>"] }]
   },
 
 	{
-		"name": "A Beast Stalks the City",
-		"text": "Rumors have begun to filter into the Palace that a monstrous beast stalks the city streets at the dead of night. Eye-witnesses claim that the beast is a demon, others claim it is the elusive wild haggis. Regardless, it is beginning to disquiet the city, and so the matter must be dealt with.",
+		"name": "Una bestia acecha la ciudad",
+		"text": "Han comenzado a filtrarse en el palacio rumores de que una bestia monstruosa acecha las calles de la ciudad en plena noche. Algunos testigos oculares afirman que la bestia es un demonio, otros afirman que es el escurridizo haggis salvaje. Sea como fuere, está empezando a inquietar a la ciudad, por lo que es necesario ocuparse del asunto",
 		"choices": [
-			{ "text": "I do not address mere rumors." } ,
+			{ "text": "No me refiero a meros rumores." } ,
       
-     			{ "text": "Send out some guards and bring back the pelt of this beast.",
+     			{ "text": "Envía algunos guardias y trae la piel de esta bestia.",
 			  "uniques": [ "[+2 Happiness] [in all cities] <for [5] turns>",
                       			"Comment [Lose 25 Gold]",
 					"Gain [-25] [Gold] <hidden from users>" ]},
 
-			{ "text": "Capture it, put it in a zoo, and charge extra to have it seen.",
+			{ "text": "Captúralo, ponlo en un zoológico y cobra extra para que lo vean.",
 			  "uniques": [ "[+2 Culture] [in all cities] <for [10] turns>",
                       			"Comment [Lose 50 Gold]",
 					"Gain [-50] [Gold] <hidden from users>" ]},
       
-     			{ "text": " I shall hunt this beast myself!",
+     			{ "text": "Cazaré a esta bestia yo mismo !",
 			  "uniques": ["[+3 Happiness] [in all cities] <for [10] turns>",
 				      "[+3 Culture] [in all cities] <for [5] turns>",
 				      "Comment [Lose 100 Gold]",
@@ -157,49 +158,49 @@
   },
 
 	 {
-		    "name": "Miracle Harvest!",
-		    "text": "Owing to discovering fertilisers, our farmers accross the nation report an amazing surplus of food. Rarely has the earth ever yielded so much!",
+		    "name": "Cosecha milagrosa!",
+		    "text": "Gracias al descubrimiento de los fertilizantes, nuestros agricultores de todo el país informan de un sorprendente excedente de alimentos. ¡Rara vez la tierra ha producido tanto!",
 		    "choices": [
-			    {"text": "Food for all!",
+			    {"text": "Comida para todos!",
 			     "uniques": ["[+999 Food] [in all cities] <for [1] turns>"] } ]
 	
 	},
 
 	{
-		"name": "Social Reforms",
-		"text": "Your advisors have proposed a number of policies that would likely profit our nation greatly if taken into effect. They are extremely radical however and it is possible that many will not take well to the changes.",
+		"name": "Reformas Sociales",
+		"text": "Sus asesores han propuesto una serie de políticas que probablemente beneficiarían enormemente a nuestra nación si se implementaran. Sin embargo, son extremadamente radicales y es posible que a muchos no les agraden los cambios",
 		"choices": [
-			{ "text": "No! These drastic reforms will harm the nation, not help it!" } ,
+			{ "text": "¡No! ¡Estas reformas drásticas dañarán a la nación, no la ayudarán!!" } ,
       
-     			{ "text": "These reforms shall be of great use, implement them at once!.",
+     			{ "text": "Estas reformas serán de gran utilidad, ¡impleméntelas ya!!.",
 			  "uniques": [ "Free Social Policy",
 				       "[-3 Happiness] [in all cities] <for [10] turns>" ]},
 			
-     			{ "text": " Whoever thinks this is a good idea are traitors to the state! Have them executed!",
+     			{ "text": " Quienes piensen que esto es una buena idea son traidores al estado. ¡Que los ejecuten!",
 			  "uniques": ["[-3 Culture] [in all cities] <for [5] turns>",
 				      "[+2 Happiness] [in all cities] <for [10] turns>"] }]
   },
 
 	 {
-		    "name": "Codify Laws",
-		    "text": "Over the years various laws and decrees have been accumulated. In the interests of efficient administration it would be better to codify them into a single corpus of law so everyone will know their rights.",
+		    "name": "Codificar leyes",
+		    "text": "A lo largo de los años se han acumulado diversas leyes y decretos. En aras de una administración eficiente sería mejor codificarlos en un único cuerpo de leyes para que todos conozcan sus derechos",
 		    "choices": [
-			    {"text": "Very well.",
+			    {"text": "muy bien.",
 			     "uniques": ["Gain a free [Code of Laws] [in capital]"] } ]
 	
 	},
 
 	{
-		    "name": "Nationalize the Utilities",
+		    "name": "Nacionalizar los servicios públicos",
 		    "text": "Should we nationalize those industries which are essential for our people's welfare? The industries' owners won't like it, but the nation will be better off for it in the long run.",
 		    "choices": [
 
-			    { "text": "No! These industries shall stay private!",
+			    { "text": "No! Wstas industrias seguirán siendoprivadas!",
 			  "uniques": [ "Gain [300] [Gold]" ,
 				       "[+15 Gold] [in all cities] <for [15] turns>",
 				       "[-3 Happiness] [in all cities] <for [10] turns>"]},
 			    
-			    {"text": "For the People!",
+			    {"text": "por el pueblo!",
 			     "uniques": ["Comment [Lose 300 Gold]",
 				     	 "[+10 Production] [in all cities] <for [15] turns>",
 				     	 "Gain [-300] [Gold] <hidden from users>",
@@ -208,18 +209,18 @@
 	},
 
 	{
-		    "name": "Subsidize",
-		    "text": "Problems with traffic congestion hinder productivity in our nation. If we were to promote public transport, we should be able to ensure that both people and resources can get to where they need to be on time.",
+		    "name": "Subsidio",
+		    "text": "Los problemas de congestión del tráfico obstaculizan la productividad en nuestro país. Si promoviéramos el transporte público, deberíamos poder garantizar que tanto las personas como los recursos puedan llegar a tiempo a donde necesitan estar.",
 		    "choices": [
 
-			    { "text": "Expand bus and tram routes",
+			    { "text": "Ampliar las rutas de autobús y tranvía",
 			  "uniques": [ "Comment [Lose 300 Gold]",
 				  "Gain [-300] [Gold]" ,
 				       "[+15 Gold] [in all cities] <for [20] turns>",
 				       "[+4 Happiness] [in all cities] <for [30] turns>",
 			  		"Gain a free [Bus Routes] [in capital]"]},
 			    
-			    {"text": "Fund an underground subway",
+			    {"text": "Financiar un metro subterráneo",
 			     "uniques": ["Comment [Lose 650 Gold]",
 				     	 "[+20 Production] [in all cities] <for [20] turns>",
 				     	 "[+10 Culture] [in all cities] <for [10] turns>",
