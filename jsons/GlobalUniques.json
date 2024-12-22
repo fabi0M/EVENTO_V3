@@ -1,21 +1,21 @@
 {
 	"name": "Global uniques",
 	"uniques": [
-		"Triggers a [¡Cosecha Milagrosa!] event <upon discovering [Fertilizer] technology>",
+		"Triggers a [¡Cosecha milagrosa!] event <upon discovering [Fertilizer] technology>",
 		"Triggers a [Nacionalizar los Servicios Públicos] event <upon discovering [Industrialization] technology>",
 		"Triggers a [Subsidio] event <upon discovering [Steam Power] technology>",
 		"Triggers a [Codificar Leyes] event <upon discovering [Philosophy] technology>",
 		
 		"Triggers a [Cometa avistado] event <for [Major] Civilizations> <upon turn end> <with [2]% chance> <after turn number [5]> <before the [Decivilized era]>",
 		"Triggers a [Cometa avistado] event <for [Major] Civilizations> <upon turn end> <with [2]% chance> <starting from the [Decivilized era]>",
-		"Triggers a [Protesta de artistas por la Torre Eiffel] event <for [Major] Civilizations> <if [Eiffel Tower] is constructed>",
+		"Triggers a [Artistas protestan ante la torre Eifel] event <for [Major] Civilizations> <if [Eiffel Tower] is constructed>",
 		"Triggers a [Un Noble Empobrecido] event <upon turn end> <with [2]% chance> <after turn number [20]> <before the [Industrial era]>",
 		"Triggers a [La Estrella Invitada] event <for [Major] Civilizations> <upon turn end>  <after turn number [164]> <before turn number [166]>",
 		"Triggers a [Eclipse Solar] event <for [Major] Civilizations> <upon turn end> <with [2]% chance> <after turn number [5]> <before the [Rebuilding era]>",
 		"Triggers a [Mercenarios] event <for [Major] Civilizations> <upon turn end> <with [2]% chance> <starting from the [Neofeudal era]> <before the [Industrial era]>",
 		"Triggers a [PMC's] event <for [Major] Civilizations> <upon turn end> <with [2]% chance> <starting from the [Postmodern era]>",
-		"Triggers a [¡Petróleo Descubierto!] event <for [Major] Civilizations> <upon turn end> <with [2]% chance> <after discovering [Biology]>",
-		"Triggers a [Una Bestia Acecha la Ciudad] event <for [Major] Civilizations> <upon turn end> <with [2]% chance> <before the [Industrial era]>",
+		"Triggers a [¡Petroleo encontrado!] event <for [Major] Civilizations> <upon turn end> <with [2]% chance> <after discovering [Biology]>",
+		"Triggers a [Una bestia acecha la ciudad] event <for [Major] Civilizations> <upon turn end> <with [2]% chance> <before the [Industrial era]>",
 		"Triggers a [Reformas Sociales] event <for [Major] Civilizations> <upon turn end> <with [2]% chance> <starting from the [Rediscovering era]>",
 	]
 }
