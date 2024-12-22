@@ -1,239 +1,232 @@
 [
   {
-    "name": "Avistamiento de un cometa",
-    "text": "La gente suele ser supersticiosa y la aparición de un cometa ha convencido a muchos de que el fin de los tiempos está cerca. Sea esto cierto o no, esto seguramente causará cierta inestabilidad en la nación.",
-    "choices": [
-      {
-        "text": "It is an omen!",
-        "uniques": [
-          "Gain [10]-[25] [Faith]",
-          "Gain [10]-[20] [Culture]"
-        ]
-      },
-      {
-        "text": "The end is nigh!",
-        "uniques": [
-          "[-2 Happiness] [in all cities] <for [5] turns>",
-          "Gain [20]-[40] [Culture]"
-        ]
-      },
-      {
-        "text": "Keep looking at the sky!",
-        "uniques": [
-          "Comment [Grants a burst of Science]",
-          "[-1 Happiness] [in all cities] <for [5] turns>",
-          "Gain [20] [Science] <during the [Decivilized era]> <hidden from users>",
-          "Gain [60] [Science] <during the [Rediscovering era]> <hidden from users>",
-          "Gain [100] [Science] <during the [Neofeudal era]> <hidden from users>"
-        ]
-      }
-    ]
+		"name": "Cometa avistado",
+		"text": "La gente suele ser supersticiosa y la aparición de un cometa ha convencido a muchos de que el fin de los tiempos está por llegar. Sea o no así, esto provocará cierta inestabilidad en el país",
+		"choices": [
+			{ "text": "Es un gran presagio!",
+			  "uniques": [	"Gain [10]-[25] [Faith]",
+					"Gain [10]-[20] [Culture]"]}
+      
+      			{ "text": "El fin esta cerca!",
+			  "uniques": [	"[-2 Happiness] [in all cities] <for [5] turns>",
+                      		       	"Gain [20]-[40] [Culture]" ] }
+      
+     			{ "text": "Sigue mirando al cielo!",
+			  "uniques": [ 	"Comment [Otorga una rafaga de ciencia]",
+                                       	"[-1 Happiness] [in all cities] <for [5] turns>",
+					"Gain [20] [Science] <during the [Ancient era]> <hidden from users>",
+					"Gain [60] [Science] <during the [Classical era]> <hidden from users>",
+			 		"Gain [100] [Science] <during the [Medieval era]> <hidden from users>"] } ]
   },
+
   {
-    "name": "Cometa avistado",
-    "text": "Un cometa fue visto en el cielo. Algunas personas en el pasado creían que esto presagiaba tiempos difíciles. Otros solían creer que eran en realidad hadas flotando en el cielo. ¡Qué forma tan primitiva de pensar! Es casi embarazoso que nuestros ancestros creyeran en tales tonterías.",
-    "choices": [
-      {
-        "text": "Thank God we live in such enlightened times.",
-        "uniques": [
-          "Gain [175]-[275] [Faith]",
-          "[+2 Happiness] [in all cities] <for [5] turns>"
-        ]
-      }
-    ]
+		    "name": "Cometa avistado",
+		    "text": "Se ha avistado un cometa en el cielo. En el pasado, algunas personas creían que esto presagiaba tiempos malos. Otros creían que, en realidad, eran hadas flotando en el cielo. Es una forma de pensar tan primitiva que resulta casi vergonzoso que nuestros antepasados ​​creyeran en tonterías tan absurdas como esa",
+		    "choices": [
+			    {"text": "Gracias a dios vivimos en tiempos tan ilustrados.",
+			     "uniques": ["Gain [175]-[275] [Faith]",
+					 "[+2 Happiness] [in all cities] <for [5] turns>"] } ]
+	
+	},
+
+  {
+		"name": "Artistas protestan ante la torre Eifel",
+		"text": "'Nosotros, escritores, pintores, escultores, arquitectos y apasionados devotos de la belleza hasta ahora intacta de esta nación, protestamos con todas nuestras fuerzas contra la construcción de esta inútil y monstruosa Torre Eiffel. Para que nuestros argumentos sean claros, imaginemos por un momento una torre vertiginosa y ridícula que domina esta ciudad como una gigantesca chimenea negra, aplastando bajo su masa bárbara todos nuestros humillados monumentos que desaparecerán en este sueño espantoso.'",
+		"choices": [
+			{ "text": "Idiotas" } ,
+      
+     			{ "text": "No podemos derribarla. la utilizamos como antena de radio!",
+			  "uniques": [ "Gain a free [Broadcast Tower] [in this city]",
+                      			"Comment [Lose 250 Gold]",
+					"Gain [-250] [Gold] <hidden from users>" ]},
+      
+     			{ "text": "Está bien, vamos a derribarlo.",
+			  "uniques": ["Comment [Lose Eiffel Tower benefits]",
+                  		      "Remove [Eiffel Tower] [in all cities <in cities with a [Eiffel Tower]>] <hidden from users>",
+                                      "[2] free [Great Artist] units appear",
+                                      "[1] free [Great Engineer] units appear"] }]
   },
-  {
-    "name": "Protesta de los artistas contra la Torre Eiffel",
-    "text": "'Nosotros, escritores, pintores, escultores, arquitectos y apasionados devotos de la hasta ahora intacta belleza de esta nación, protestamos con todas nuestras fuerzas contra la construcción de esta inútil y monstruosa Torre Eiffel. Para entender nuestros argumentos, imaginen por un momento una ridícula torre dominando esta ciudad como una gigantesca chimenea negra, aplastando bajo su bárbaro peso todos nuestros monumentos humillados que desaparecerán en este horrible sueño.'",
-    "choices": [
-      { "text": "Idiots" },
-      {
-        "text": "We can't take it down! We're using it as a radio tower!",
-        "uniques": [
-          "Gain a free [Broadcast Tower] [in this city]",
-          "Comment [Lose 250 Gold]",
-          "Gain [-250] [Gold] <hidden from users>"
-        ]
-      },
-      {
-        "text": "Fine, let's tear it down.",
-        "uniques": [
-          "Comment [Lose Eiffel Tower benefits]",
-          "Remove [Eiffel Tower] [in all cities <in cities with a [Eiffel Tower]>] <hidden from users>",
-          "[2] free [Great Administrator] units appear",
-          "[1] free [Great Engineer] units appear"
-        ]
-      }
-    ]
+
+	 {
+		"name": "Un noble indigente",
+		"text": "Un noble indigente ha llegado a tu corte. No tiene señor y promete su servicio a tu nombre. El noble está andrajoso y desaliñado, pero adornado con muchas cicatrices, y evidentemente ha participado en muchas batallas. Depende de ti qué hacer con él",
+		"choices": [
+			{ "text": "¡Echenlo! ¡No queremos que apeste en la Corte!" } ,
+      
+     			{ "text": "Haced que lo limpien y le pongan una armadura.",
+			  "uniques": [ "[1] free [Great General] units appear",
+                      			"Comment [Lose 100 Gold]",
+					"Gain [-100] [Gold] <hidden from users>" ]},
+      
+     			{ "text": "Confisquen los pocos bienes que posee y luego hagan que lo ejecuten!",
+			  "uniques": ["Gain [60] [Gold]",
+                  		      "Gain [25]-[35] [Culture]"] }]
   },
-  {
-    "name": "Un noble indigente",
-    "text": "Un noble indigente ha llegado a tu corte. No tiene señor y jura su lealtad a tu nombre. El noble está harapiento y descuidado, pero adornado con muchas cicatrices, evidencia de que ha combatido en numerosas batallas. Depende de ti decidir qué hacer con él.",
-    "choices": [
-      { "text": "Turn him away! We don't need him stinking up the Court!" },
-      {
-        "text": "Have him cleaned up and suited with armor.",
-        "uniques": [
-          "[1] free [Great General] units appear",
-          "Comment [Lose 100 Gold]",
-          "Gain [-100] [Gold] <hidden from users>"
-        ]
-      },
-      {
-        "text": "Confiscate what little estate he possesses and then have him executed!",
-        "uniques": [
-          "Gain [60] [Gold]",
-          "Gain [25]-[35] [Culture]"
-        ]
-      }
-    ]
+
+	{
+		"name": "La Estrella Invitada",
+		"text": "Corre el año 1054 y una estrella ha aparecido en el cielo. Brilla con un brillo impresionante y cautiva a toda la nación. El acontecimiento es sin duda de gran importancia.",
+		"choices": [
+			{ "text": " QUE BELLEZA",
+			  "uniques": [ "[1] free [Great Artist] units appear"]},
+      
+     			{ "text": "UN MILAGRO ASTRONOMICO!",
+			  "uniques": ["[1] free [Great Scientist] units appear"] }]
   },
-  {
-    "name": "La estrella invitada",
-    "text": "El año es 1054, una estrella ha aparecido en los cielos. Brilla con un esplendor impresionante, cautivando a toda la nación. Este evento es seguramente de gran importancia.",
-    "choices": [
-      {
-        "text": "Such beauty!",
-        "uniques": [
-          "[1] free [Great Administrator] units appear"
-        ]
-      },
-      {
-        "text": "A astronomical miracle!",
-        "uniques": [
-          "[1] free [Great Scientist] units appear"
-        ]
-      }
-    ]
+
+	{
+		"name": "Eclipse Solar",
+		"text": "La nación observa con asombro cómo el Sol desaparece lentamente detrás del disco negro suspendido en el cielo y el mundo se oscurece a pesar de ser mediodía. Sus súbditos están absolutamente aterrorizados.",
+		"choices": [
+			{ "text": "Nuestras oraciones y sacrificios traerán de vuelta la luz.",
+			  "uniques": [ "[+20]% [Culture] [in all cities] <for [8] turns>",
+			  		"[+20]% [Faith] [in all cities] <for [8] turns>"]},
+      
+     			{ "text": "Debe haber una explicación razonable.",
+			  "uniques": [ "[+20]% [Culture] [in all cities] <for [8] turns>",
+			  	       "[+20]% [Science] [in all cities] <for [8] turns>" ]}]
   },
-  {
-    "name": "Eclipse solar",
-    "text": "La nación contempla con asombro cómo el Sol desaparece lentamente detrás de un disco negro suspendido en el cielo, y el mundo queda en tinieblas a pesar de ser mediodía. Tus súbditos están absolutamente aterrorizados.",
-    "choices": [
-      {
-        "text": "Our prayers and sacrifices shall bring back the light.",
-        "uniques": [
-          "[+20]% [Culture] [in all cities] <for [8] turns>",
-          "[+20]% [Faith] [in all cities] <for [8] turns>"
-        ]
-      },
-      {
-        "text": "There must be a reasonable explanation.",
-        "uniques": [
-          "[+20]% [Culture] [in all cities] <for [8] turns>",
-          "[+20]% [Science] [in all cities] <for [8] turns>"
-        ]
-      }
-    ]
+
+	{
+		"name": "Mercenarios",
+		"text": "Una banda de mercenarios, recién llegados de alguna guerra extranjera ya resuelta, ha llegado a vuestro palacio y os ofrece sus servicios. No son simples vagabundos; son soldados profesionales. Si no son nosotros, entonces podrían recurrir a nuestros enemigos.",
+		"choices": [
+			{ "text": "No tendremos extranjeros en nuestros ejércitos!",
+			  "uniques": [ "Rebel units may spawn <for [10] turns>",
+					"Gain [100] [Culture]"]},
+
+			{ "text": "Tenemos que rechazarlos!",
+			  "uniques": [ "Comment [The mercenaries leave.]"]},
+      
+     			{ "text": "Pay them well, and bring them into our service!",
+			  "uniques": [ "Comment [Lose 300 Gold]",
+				  	"Free [Landsknecht] appears",
+				  	"Free [Landsknecht] appears",
+				  	"Free [Landsknecht] appears",
+					"Gain [-300] [Gold] <hidden from users>" ] }]
   },
-  {
-    "name": "Mercenarios",
-    "text": "Un grupo de mercenarios, recién llegados de alguna guerra extranjera ya resuelta, ha llegado a tu Palacio y ofrece sus servicios. No son simples vagabundos, sino soldados profesionales. Si no trabajamos con ellos, podrían unirse a nuestros enemigos.",
-    "choices": [
-      {
-        "text": "We shall have no foreigners in our armies!",
-        "uniques": [
-          "Rebel units may spawn <for [10] turns>",
-          "Gain [100] [Culture]"
-        ]
-      },
-      {
-        "text": "We must turn them away!",
-        "uniques": [
-          "Comment [The mercenaries leave.]"
-        ]
-      },
-      {
-        "text": "Pay them well, and bring them into our service!",
-        "uniques": [
-          "Comment [Lose 300 Gold]",
-          "Free [Machete] appears",
-          "Free [Machete] appears",
-          "Free [Machete] appears",
-          "Gain [-300] [Gold] <hidden from users>"
-        ]
-      }
-    ]
+
+	{
+		"name": "PMC's",
+		"text": "An organisation of PMC's, fresh from some foreign war now settled, has sent a message to the military, and offer their services to you. These are no mere insurgents; these are true veterans. If not us, then they might turn to our enemies.",
+		"choices": [
+			{ "text": "We shall have no guns-for-hire in our armies!",
+			  "uniques": [ "Rebel units may spawn <for [10] turns>",
+					"Gain [100] [Culture]"]},
+
+			{ "text": "We must turn them away!",
+			  "uniques": [ "Comment [The PMC's leave.]"]},
+      
+     			{ "text": "Pay them well, and bring them into our service!",
+			  "uniques": [ "Comment [Lose 500 Gold]",
+				  	"Free [PMC] appears",
+				  	"Free [PMC] appears",
+				  	"Free [PMC] appears",
+					"Gain [-500] [Gold] <hidden from users>" ] }]
   },
-  {
-    "name": "Descubrimos petróleo",
-    "text": "¡Noticias gloriosas! Nuestros trabajadores han encontrado una nueva y rica fuente de petróleo cerca de nuestros pozos existentes. El petróleo está allí, esperando a que lo extraigamos.",
-    "choices": [
-      {
-        "text": "Wonderful news!",
-        "uniques": [
-          "Double quantity of [Oil] produced <for [20] turns>"
-        ]
-      }
-    ]
+
+	{
+		"name": "Struck Oil!",
+		"text": "Glorious news! Our workers have found a new, rich source of oil on a nearby our existing oil wells! The oil is sitting there, just waiting for us to drill it out.",
+		"choices": [
+			{ "text": "Wonderful news!",
+			  "uniques": [ "Double quantity of [Oil] produced <for [20] turns>"] }]
   },
-  {
-    "name": "Un monstruo acecha la ciudad",
-    "text": "Han comenzado a llegar rumores al Palacio de que un monstruoso animal merodea por las calles de la ciudad en plena noche. Los testigos afirman que la bestia es un demonio, otros dicen que es el esquivo haggis salvaje. En cualquier caso, está comenzando a inquietar a la ciudad, y el asunto debe resolverse.",
-    "choices": [
-      {
-        "text": "I do not address mere rumors."
-      },
-      {
-        "text": "Send out some guards and bring back the pelt of this beast.",
-        "uniques": [
-          "[+2 Happiness] [in all cities] <for [5] turns>",
-          "Comment [Lose 25 Gold]",
-          "Gain [-25] [Gold] <hidden from users>"
-        ]
-      },
-      {
-        "text": "Capture it, put it in a zoo, and charge extra to have it seen.",
-        "uniques": [
-          "[+2 Culture] [in all cities] <for [10] turns>",
-          "Comment [Lose 50 Gold]",
-          "Gain [-50] [Gold] <hidden from users>"
-        ]
-      },
-      {
-        "text": "I shall hunt this beast myself!",
-        "uniques": [
-          "[+3 Happiness] [in all cities] <for [10] turns>",
-          "[+3 Culture] [in all cities] <for [5] turns>",
-          "Comment [Lose 100 Gold]",
-          "Gain [-100] [Gold] <hidden from users>"
-        ]
-      }
-    ]
+
+	{
+		"name": "A Beast Stalks the City",
+		"text": "Rumors have begun to filter into the Palace that a monstrous beast stalks the city streets at the dead of night. Eye-witnesses claim that the beast is a demon, others claim it is the elusive wild haggis. Regardless, it is beginning to disquiet the city, and so the matter must be dealt with.",
+		"choices": [
+			{ "text": "I do not address mere rumors." } ,
+      
+     			{ "text": "Send out some guards and bring back the pelt of this beast.",
+			  "uniques": [ "[+2 Happiness] [in all cities] <for [5] turns>",
+                      			"Comment [Lose 25 Gold]",
+					"Gain [-25] [Gold] <hidden from users>" ]},
+
+			{ "text": "Capture it, put it in a zoo, and charge extra to have it seen.",
+			  "uniques": [ "[+2 Culture] [in all cities] <for [10] turns>",
+                      			"Comment [Lose 50 Gold]",
+					"Gain [-50] [Gold] <hidden from users>" ]},
+      
+     			{ "text": " I shall hunt this beast myself!",
+			  "uniques": ["[+3 Happiness] [in all cities] <for [10] turns>",
+				      "[+3 Culture] [in all cities] <for [5] turns>",
+				      "Comment [Lose 100 Gold]",
+				      "Gain [-100] [Gold] <hidden from users>"] }]
   },
-  {
-    "name": "¡Cosecha milagrosa!",
-    "text": "Gracias al descubrimiento de fertilizantes, nuestros agricultores de todo el país reportan un increíble excedente de alimentos. ¡Rara vez la tierra ha dado tanto fruto!",
-    "choices": [
-      {
-        "text": "Food for all!",
-        "uniques": [
-          "[+999 Food] [in all cities] <for [1] turns>"
-        ]
-      }
-    ]
+
+	 {
+		    "name": "Miracle Harvest!",
+		    "text": "Owing to discovering fertilisers, our farmers accross the nation report an amazing surplus of food. Rarely has the earth ever yielded so much!",
+		    "choices": [
+			    {"text": "Food for all!",
+			     "uniques": ["[+999 Food] [in all cities] <for [1] turns>"] } ]
+	
+	},
+
+	{
+		"name": "Social Reforms",
+		"text": "Your advisors have proposed a number of policies that would likely profit our nation greatly if taken into effect. They are extremely radical however and it is possible that many will not take well to the changes.",
+		"choices": [
+			{ "text": "No! These drastic reforms will harm the nation, not help it!" } ,
+      
+     			{ "text": "These reforms shall be of great use, implement them at once!.",
+			  "uniques": [ "Free Social Policy",
+				       "[-3 Happiness] [in all cities] <for [10] turns>" ]},
+			
+     			{ "text": " Whoever thinks this is a good idea are traitors to the state! Have them executed!",
+			  "uniques": ["[-3 Culture] [in all cities] <for [5] turns>",
+				      "[+2 Happiness] [in all cities] <for [10] turns>"] }]
   },
-  {
-    "name": "Reformas sociales",
-    "text": "Tus consejeros han propuesto una serie de políticas que probablemente beneficiarían a nuestra nación si se implementan. Sin embargo, son extremadamente radicales y es posible que muchos no las acepten.",
-    "choices": [
-      {
-        "text": "No! These drastic reforms will harm the nation, not help it!"
-      },
-      {
-        "text": "These reforms shall be of great use, implement them at once!",
-        "uniques": [
-          "Free Social Policy",
-          "[-3 Happiness] [in all cities] <for [10] turns>"
+
+	 {
+		    "name": "Codify Laws",
+		    "text": "Over the years various laws and decrees have been accumulated. In the interests of efficient administration it would be better to codify them into a single corpus of law so everyone will know their rights.",
+		    "choices": [
+			    {"text": "Very well.",
+			     "uniques": ["Gain a free [Code of Laws] [in capital]"] } ]
+	
+	},
+
+	{
+		    "name": "Nationalize the Utilities",
+		    "text": "Should we nationalize those industries which are essential for our people's welfare? The industries' owners won't like it, but the nation will be better off for it in the long run.",
+		    "choices": [
+
+			    { "text": "No! These industries shall stay private!",
+			  "uniques": [ "Gain [300] [Gold]" ,
+				       "[+15 Gold] [in all cities] <for [15] turns>",
+				       "[-3 Happiness] [in all cities] <for [10] turns>"]},
+			    
+			    {"text": "For the People!",
+			     "uniques": ["Comment [Lose 300 Gold]",
+				     	 "[+10 Production] [in all cities] <for [15] turns>",
+				     	 "Gain [-300] [Gold] <hidden from users>",
+			     		 "Gain a free [Factory] [in capital]"] } ]
+	
+	},
+
+	{
+		    "name": "Subsidize",
+		    "text": "Problems with traffic congestion hinder productivity in our nation. If we were to promote public transport, we should be able to ensure that both people and resources can get to where they need to be on time.",
+		    "choices": [
+
+			    { "text": "Expand bus and tram routes",
+			  "uniques": [ "Comment [Lose 300 Gold]",
+				  "Gain [-300] [Gold]" ,
+				       "[+15 Gold] [in all cities] <for [20] turns>",
+				       "[+4 Happiness] [in all cities] <for [30] turns>",
+			  		"Gain a free [Bus Routes] [in capital]"]},
+			    
+			    {"text": "Fund an underground subway",
+			     "uniques": ["Comment [Lose 650 Gold]",
+				     	 "[+20 Production] [in all cities] <for [20] turns>",
+				     	 "[+10 Culture] [in all cities] <for [10] turns>",
+				     	 "Gain [-650] [Gold] <hidden from users>",
+			     		"Gain a free [Underground Subway] [in capital]"] } ]
+	
+	},
+
+	
         ]
-      },
-      {
-        "text": "Whoever thinks this is a good idea are traitors to the state! Have them executed!",
-        "uniques": [
-          "[-3 Culture] [in all cities] <for [5] turns>",
-          "[+2 Happiness] [in all cities] <for [10] turns>"
-        ]
-      }
-    ]
-  }
-]
