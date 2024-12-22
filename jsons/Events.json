@@ -48,7 +48,7 @@
   },
 
 	 {
-		"name": "Un noble indigente",
+		"name": "Un Noble Empobrecido"
 		"text": "Un noble indigente ha llegado a tu corte. No tiene señor y promete su servicio a tu nombre. El noble está andrajoso y desaliñado, pero adornado con muchas cicatrices, y evidentemente ha participado en muchas batallas. Depende de ti qué hacer con él",
 		"choices": [
 			{ "text": "¡Echenlo! ¡No queremos que apeste en la Corte!" } ,
@@ -182,7 +182,7 @@
   },
 
 	 {
-		    "name": "Codificar leyes",
+		    "name": "Codificar Leyes",
 		    "text": "A lo largo de los años se han acumulado diversas leyes y decretos. En aras de una administración eficiente sería mejor codificarlos en un único cuerpo de leyes para que todos conozcan sus derechos",
 		    "choices": [
 			    {"text": "muy bien.",
@@ -191,7 +191,7 @@
 	},
 
 	{
-		    "name": "Nacionalizar los servicios públicos",
+		    "name": "Nacionalizar los Servicios Públicos",
 		    "text": "Should we nationalize those industries which are essential for our people's welfare? The industries' owners won't like it, but the nation will be better off for it in the long run.",
 		    "choices": [
 
